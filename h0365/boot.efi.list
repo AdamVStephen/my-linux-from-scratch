@@ -1,0 +1,17 @@
+      114      4 drwx------   5 root     root         4096 Dec 26 17:54 /boot/efi/EFI/
+      118      4 drwx------   3 root     root         4096 Dec 26 11:27 /boot/efi/EFI/ubuntu
+      126      4 drwx------   2 root     root         4096 Dec 26 17:59 /boot/efi/EFI/ubuntu/fw
+      127     64 -rwx------   1 root     root        63440 Jun 15  2020 /boot/efi/EFI/ubuntu/fwupdx64.efi
+      128   1688 -rwx------   1 root     root      1726344 Apr  5  2023 /boot/efi/EFI/ubuntu/grubx64.efi
+      129      4 -rwx------   1 root     root          117 Apr  5  2023 /boot/efi/EFI/ubuntu/grub.cfg
+      130    936 -rwx------   1 root     root       955656 Apr  5  2023 /boot/efi/EFI/ubuntu/shimx64.efi
+      131    840 -rwx------   1 root     root       856232 Apr  5  2023 /boot/efi/EFI/ubuntu/mmx64.efi
+      132      4 -rwx------   1 root     root          108 Apr  5  2023 /boot/efi/EFI/ubuntu/BOOTX64.CSV
+      133      4 drwx------   2 root     root         4096 Sep  5  2019 /boot/efi/EFI/BOOT
+      136    936 -rwx------   1 root     root       955656 Apr  5  2023 /boot/efi/EFI/BOOT/BOOTX64.EFI
+      137     84 -rwx------   1 root     root        85672 Apr  5  2023 /boot/efi/EFI/BOOT/fbx64.efi
+      138      4 drwx------   3 root     root         4096 Dec 26 17:54 /boot/efi/EFI/Dell
+      140      4 drwx------   3 root     root         4096 Dec 26 17:54 /boot/efi/EFI/Dell/Bios
+      142      4 drwx------   2 root     root         4096 Dec 26 17:54 /boot/efi/EFI/Dell/Bios/Recovery
+      145   8736 -rwx------   1 root     root      8945387 Sep 27  2019 /boot/efi/EFI/Dell/Bios/Recovery/BIOS_PRE.rcv
+      146   9100 -rwx------   1 root     root      9314553 Dec 26 17:54 /boot/efi/EFI/Dell/Bios/Recovery/BIOS_CUR.rcv

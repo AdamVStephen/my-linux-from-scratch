@@ -1,0 +1,26 @@
+total 267696
+drwx------ 3 root root     4096 Jan  1  1970 efi
+-rw-r--r-- 1 root root   184840 Jan 28  2016 memtest86+_multiboot.bin
+-rw-r--r-- 1 root root   184380 Jan 28  2016 memtest86+.elf
+-rw-r--r-- 1 root root   182704 Jan 28  2016 memtest86+.bin
+-rw------- 1 root root  4483816 Feb  3  2020 System.map-5.3.0-40-generic
+-rw-r--r-- 1 root root   235810 Feb  3  2020 config-5.3.0-40-generic
+-rw------- 1 root root  9138424 Feb  3  2020 vmlinuz-5.3.0-40-generic
+-rw------- 1 root root  4485514 Feb 28  2020 System.map-5.3.0-42-generic
+-rw-r--r-- 1 root root   235831 Feb 28  2020 config-5.3.0-42-generic
+-rw------- 1 root root  9142520 Feb 28  2020 vmlinuz-5.3.0-42-generic
+-rw------- 1 root root  4490843 Jun 24  2020 System.map-5.3.0-62-generic
+-rw-r--r-- 1 root root   235827 Jun 24  2020 config-5.3.0-62-generic
+-rw------- 1 root root  9158912 Jun 24  2020 vmlinuz-5.3.0-62-generic
+-rw-r--r-- 1 root root 22966171 Jan 30  2021 initrd.img-5.3.0-62-generic
+-rw-r--r-- 1 root root 42005371 Jan 30  2021 initrd.img-5.3.0-42-generic
+-rw-r--r-- 1 root root 42002582 Jan 30  2021 initrd.img-5.3.0-40-generic
+-rw------- 1 root root  4585048 Mar 17  2023 System.map-5.4.0-146-generic
+-rw-r--r-- 1 root root   237792 Mar 17  2023 config-5.4.0-146-generic
+-rw------- 1 root root 10977544 Mar 17  2023 vmlinuz-5.4.0-146-generic
+-rw------- 1 root root  4587657 May 19  2023 System.map-5.4.0-150-generic
+-rw-r--r-- 1 root root   237767 May 19  2023 config-5.4.0-150-generic
+-rw------- 1 root root 10981640 May 19  2023 vmlinuz-5.4.0-150-generic
+-rw-r--r-- 1 root root 45600261 Jul 11 06:50 initrd.img-5.4.0-146-generic
+drwxr-xr-x 5 root root     4096 Jul 12 06:28 grub
+-rw-r--r-- 1 root root 47709424 Dec 27 17:28 initrd.img-5.4.0-150-generic
